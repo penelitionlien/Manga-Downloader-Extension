@@ -103,7 +103,7 @@ if(document.querySelector("span#azerty") === null){
         case "readberserk.com":
             readopmF();
             break;
-        case "kiryuu.co":
+        case "kiryuu.id":
             kiryuuF();              // sektekomik.com is the same as kiryuu.co
             break;
         case "sektekomik.com":
